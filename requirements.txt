@@ -2,4 +2,4 @@ opencv-python
 mediapipe
 PyAutoGUI
 streamlit
-flask
+
